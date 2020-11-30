@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BeLinked</string>
+    <string name="motto">海内存知己，天涯若比邻。</string>
+    <string name="mottoLogin">-----海内存知己 天涯若比邻-----</string>
+    <string name="phoneTip">请输入手机号</string>
+    <string name="verificationCodeTip">请输入验证码</string>
+    <string name="getVerificationCode">获取验证码</string>
+    <string name="passwordLogin">密码登录</string>
+    <string name="login">登 录</string>
+    <string name="forgetPassword">忘记密码？</string>
+    <string name="register">注册</string>
+    <string name="verificationLogin">手机验证码登录</string>
+    <string name="passwordTip">请输入密码</string>
+    <string name="save_button">保存</string>
+    <string name="forgetPs">忘记密码</string>
+    <string name="nextStep">下一步</string>
+    <string name="inputPassword">输入密码</string>
+    <string name="confirmPassword">确认密码</string>
+</resources>
